@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - I am passionate and motivated Full Stack Web developer, certified by Spiced Academy, Berlin.
 - I have a bachelor's degree(B.Tech) in Computer Science and Engineering 👩‍🎓.
